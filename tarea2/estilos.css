@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+  }
+  
+   table.t1{
+   width: 100%;
+   border: gray 3px outset;
+  }
+
+  table.t2{
+    width: 100%;
+    border: gray 5px outset;
+  }
+
+  table.t3{
+    width: 100%;
+    border: gray 3px double;
+  }
+
+  div{
+   width: 100%
+   
+  }
